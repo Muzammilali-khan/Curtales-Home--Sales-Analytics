@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/sample_data/
+data/cleaned_data/
+*.csv
