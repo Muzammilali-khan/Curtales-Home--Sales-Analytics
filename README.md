@@ -13,6 +13,17 @@ Sales data pipeline for generating, cleaning, and analyzing sales data with Powe
 2. Run data_cleaner.py to clean and prepare data
 3. Load cleaned CSV files into Power BI
 
+## Dashboard Previews
+
+### Executive Dashboard
+![Executive Dashboard](dashboard-executive.png)
+
+### Product Analytics
+![Product Analytics](dashboard-product.png)
+
+### Customer Insights
+![Customer Insights](dashboard-customer.png)
+
 ## Author
 
 Muzammil Ali Khan
